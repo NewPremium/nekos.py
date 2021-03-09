@@ -1,5 +1,5 @@
 # nekos.py
-A Python module that uses Nekos API
+Nekos API 를 사용한 파이썬 모듈
 
 ## Requirements
 - Python 3.6 and up - https://www.python.org/downloads/
@@ -18,7 +18,7 @@ print(nekos.cat())
 ```
 
 # Endpoints
-NOTE: You must call them as functions
+메모: 이것들은 함수로써만 호출해야 합니다
 - cat
 - eightball
 - fact
